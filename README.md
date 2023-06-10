@@ -1,7 +1,7 @@
 # Duke_Course3_Week2
 
-Testing new repository
+Uploaded my updated version of the exercise.ipynb file
 
-I am modifying readme file on  my home computer and confirming ability to push changes to GitHub repo
+Used boolean logic and boolean mask to filter for blended wines with a score > 97.
 
-This file is located in Duke_Course3_Week2 repo
+Still need to improve output of JSON file to remove index values.
